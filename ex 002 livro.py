@@ -17,3 +17,4 @@ def Eprimo(x):
 n = int(input('Digite um numero: '))
 p = Eprimo(n)
 print(f'Os {n} primeiros numeros primos são = {p}')
+#tente testar com os 25 primeiros primos( que são os numeros primos de 1 a 100)
